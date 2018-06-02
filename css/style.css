@@ -1,0 +1,96 @@
+body{}
+.container{
+	width:1000px;
+	height:1000px;
+	background: grey;
+	margin: 0 auto;
+	text-transform: uppercase;
+}
+header{
+	width:100%;
+	height:15%;
+	background: yellow;
+	overflow:hidden;
+}
+.logo{
+	text-align: center;
+	color:white;
+	width:25%;
+	height:100%;
+	background:#A1512B;
+	float:left;
+}
+.menu{
+	width:75%;
+	height:100%;
+	background:blue;
+	float:left;
+	color:white;
+	text-align:center;
+}
+.description{
+	float:top;
+	width:100%;
+	height:35%;
+	background: red;
+	text-align: center;
+	color:white;
+	float:left;
+}
+.content{
+	width:100%;
+	height:30%;
+	text-align:center;
+}
+.one{
+	width:55%;
+	height:100%;
+	float:left;
+}
+.client{
+	float:left;
+	width:100%;
+	height:50%;
+	background: #008000;
+	text-align:center;
+	color:white;
+}
+.projects{
+	width:100%;
+	height:50%;
+	background: #ADFF2F;
+	float:left;
+	text-align: center;
+	color:white;
+}
+.overview{
+	width:45%;
+	height:100%;
+	float:left;
+	text-align: center;
+	color:white;
+	background: #FF8B00;
+}
+footer{
+	width:100%;
+	height:20%;
+	background: #ABB1BA;
+	float:left;
+	float:top;
+}
+.about{
+	float:left;
+	width:100%;
+	height:50%;
+	background: #DD123A;
+	text-align: center;
+	color:white;
+}
+.contact{
+	float:left;
+	background: #2D3F54;
+	width:100%;
+	height:50%;
+	text-align: center;
+	color:white;
+}
